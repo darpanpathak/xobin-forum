@@ -1,0 +1,1 @@
+{"version":3,"sources":["PostDetails/index.ts"],"names":[],"mappings":";;;;AAAA,6CAAwC","file":"index.js","sourcesContent":["export * from './postdetails.component';"]}

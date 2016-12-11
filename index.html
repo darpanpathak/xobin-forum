@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="/">
+    <title>Angular2 with NodeJs - Darpan Pathak</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="css/custom.min.css">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+    <!-- 1. Load libraries -->
+    <!-- Polyfill(s) for older browsers -->
+    <script src="es6-shim/es6-shim.min.js"></script>
+
+    <script src="zone.js/dist/zone.js"></script>
+    <script src="reflect-metadata/Reflect.js"></script>
+    <script src="systemjs/dist/system.src.js"></script>
+
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.4/nv.d3.min.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.4/nv.d3.min.js"></script>
+
+
+    <!-- 2. Configure SystemJS -->
+    <script src="js/systemjs.config.js"></script>
+</head>
+<body>
+<my-app>Loading...</my-app>
+
+<script>
+    System.import('app').catch(function(err){ console.error(err);  });
+</script>
+    
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
