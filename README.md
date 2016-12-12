@@ -16,7 +16,7 @@ You already have following things installed on your machine.
 - [gulp](http://gulpjs.com/)
   
 ##Steps to clone and run the project
-1. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) > `git clone https://github.com/darpanpathak/MEAN2-MarvelApp.git`
+1. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) > `https://github.com/darpanpathak/xobin-forum.git`
 2. Open this repository with any of your favourite IDE(I am using Visual Studio Code)
 3. Run > **npm install** in command prompt to install npm dependencies 
 4. Run > **gulp** in command prompt 
