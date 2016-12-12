@@ -1,11 +1,11 @@
 ##Instructions
 This repository includes angularjs2, nodejs and expressjs setup with bootswatch free theme [superhero](http://bootswatch.com/superhero/) to develop MEAN stack project. I have used gulp, browser-sync and nodemon together to make the development flexible. 
 
-[localhost:7000/#/home](localhost:7000/#/home) - list of posts, click on the title / body to get the details of the post
+[localhost:7000/#/home](localhost:7000/#/home) - list of posts, click on the title / body to get the details of the post <br>
 [localhost:7000/#/chart](localhost:7000/#/chart) - for d3.js chart
 
 
-**username: test**
+**username: test** <br>
 **password: test** 
 
 ## Assumptions
